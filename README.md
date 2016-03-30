@@ -1,4 +1,4 @@
-# Practice_Problems
+# Practice Problems
 Coding I do for fun &amp; practice.
 
 ##Hackerrank 
