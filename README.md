@@ -7,5 +7,5 @@ This contains solutions to most problems I've done.  I really like this website 
 ##[InterviewBit](https://www.interviewbit.com/)
 A website all about preparing for code interviews.  I've found it to be quite helpful.  
 
-## Cracking the Coding Interview
+## [Cracking the Coding Interview](http://www.eenadupratibha.net/Engineering-Colleges/Engineering-Jobs/Documents/crackingthecodinginterview.pdf)
 The solutions I've written for the canonical interview prep text, "Cracking the Coding Interview" from CareerCup.  There is an official solution repo but I will endeavor to create unique or modified solutions to each problem. 
